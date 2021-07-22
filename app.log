@@ -1,0 +1,5 @@
+2021-06-26 11:29:56,813 INFO      * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2021-06-26 11:32:08,522 INFO     2021-06-26 11:32:08.522333, /metrics endpoint was reached
+2021-06-26 11:32:08,523 INFO     127.0.0.1 - - [26/Jun/2021 11:32:08] "GET / HTTP/1.1" 200 -
+2021-06-26 11:32:12,491 INFO     2021-06-26 11:32:12.491563, /status endpoint was reached
+2021-06-26 11:32:12,492 INFO     127.0.0.1 - - [26/Jun/2021 11:32:12] "GET /status HTTP/1.1" 200 -
